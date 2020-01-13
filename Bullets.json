@@ -1,7 +1,7 @@
 {
-  "description": "This is a test fungible item that costs 1 ENJ PER ITEM in fees to TRADE.",
-  "image": "https://image.flaticon.com/icons/svg/914/914649.svg",
+  "description": "Better than Republic Credits!",
+  "image": "https://imgur.com/wSqwbcU.png",
   "properties": {
-    "Quality": "An apple a day keeps the doctor away."
+    "Quality": "Common"
   }
 }
