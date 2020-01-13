@@ -1,0 +1,7 @@
+{
+  "description": "This is a test fungible item that costs 1 ENJ PER ITEM in fees to TRADE.",
+  "image": "https://image.flaticon.com/icons/svg/914/914649.svg",
+  "properties": {
+    "Quality": "An apple a day keeps the doctor away."
+  }
+}
